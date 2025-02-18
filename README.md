@@ -11,10 +11,10 @@ Bienvenue dans mon premier projet en Python ! 🚀 Ce petit jeu consiste à devi
 - Le joueur doit deviner ce nombre en recevant des indices ("Trop haut" / "Trop bas").  
 - Le jeu continue jusqu'à ce que le joueur trouve le bon nombre ou atteigne la limite d'essais.  
 - Possibilité de rejouer après chaque partie. 🔄
-- 3 version différentes : 
-   1 : version en français
-   2 : version en anglais
-   3 : version dans laquelle tu peux choisir ta langue entre anglais et francais 
+- 3 versions différentes : 
+   **random.py** : version en français
+   **randomenglish.py** : version en anglais
+   **randomfinal.py** : version dans laquelle tu peux choisir ta langue entre anglais et francais 
 
 ---
 
