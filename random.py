@@ -32,4 +32,3 @@ def jeu_devine_nombre():
         jeu_devine_nombre()
 
 jeu_devine_nombre()
-reak
