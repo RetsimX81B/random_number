@@ -6,6 +6,10 @@ Bienvenue dans mon premier projet en Python ! 🚀 Ce petit jeu consiste à devi
 
 ## 📝 Description
 
+-3 version différentes : 
+   1 : version en français
+   2 : version en anglais
+   3 : version dans laquelle tu peux choisir ta langue entre anglais et francais 
 - L'ordinateur choisit un nombre aléatoire entre **1 et 100**. 🎯  
 - Le joueur doit deviner ce nombre en recevant des indices ("Trop haut" / "Trop bas").  
 - Le jeu continue jusqu'à ce que le joueur trouve le bon nombre ou atteigne la limite d'essais.  
